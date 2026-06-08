@@ -11,7 +11,7 @@ const FORMSPREE_ID = 'xvznowep'
 
 // ─── PARTY DETAILS ───────────────────────────────────────────────────────────
 // Update these with the real info before deploying!
-const PARTY_DATE = 'Sunday, [08/08/2026]'
+const PARTY_DATE = 'Sunday, 08/08/2026'
 const PARTY_TIME = '1pm – 3pm'
 const PARTY_LOCATION = 'Mason Lake'
 
